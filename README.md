@@ -23,3 +23,13 @@ Python
 OpenCV (cv2) for image processing
 
 Matplotlib for visualization
+
+*software requirements:
+
+pip install matplotlib
+
+pip install opencv-python
+
+*hardware reuirements:
+
+python version:3.13 or 3.10+
